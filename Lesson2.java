@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.Arrays; // не знаю, что за штука
 
 public class Lesson2 {
     public static void main(String[] args) {
